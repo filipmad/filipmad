@@ -1,14 +1,14 @@
 # Filip Madyarov — Full Stack Engineer
 
-I’m a 2024 Computer Science graduate from the University of Melbourne with a strong interest in backend engineering, systems programming, and service design for large scale applications or personal tools.
+I’m a 2024 Computer Science graduate from the University of Melbourne with a strong interest in backend engineering, systems programming, and building towards service design for large scale applications or personal tools.
 
-I build systems that are reliable, efficient, and maintainable — from backend APIs in Go to socket-based tools in C. I’m most passionate about solving backend problems that involve performance, networking, and architecture.
+I build systems that are reliable, efficient, and maintainable. I’m most passionate about solving backend problems that involve performance, networking, and architecture.
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages:** GoLang, C, Python, Kotlin, JavaScript, Dart 
+**Languages:** GoLang, C++, Python, Java, Kotlin, JavaScript, Dart 
 **Backend:** REST APIs, gRPC, WebSockets, PostgreSQL, Redis  
 **Frontend:** React, Compose, Flutter  
 **Tools & Infra:** Docker, Git, Linux, Nginx, Postman  
@@ -21,7 +21,7 @@ I build systems that are reliable, efficient, and maintainable — from backend 
 - **Backend Engineering** – APIs, data modeling, concurrency, observability  
 - **Systems Programming** – sockets, low-level networking, memory management  
 - **Distributed Systems** – scalability, fault tolerance, load balancing
-- **Personal Tools**      - realiable,   
+- **Personal Tools**      - realiable, secure and interative software for personal use   
 
 ---
 
