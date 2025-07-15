@@ -29,16 +29,6 @@ I build systems that are reliable, efficient, and maintainable. I’m most passi
 
 ---
 
-## 🛠️ Selected Projects
-*(See repos for full code and documentation)*
-
-- **Proxy Server (C):** TCP proxy built from scratch, exploring sockets and buffering
-- **Drop Note (Kotlin, React):** Quickly and Securely Share Text & Files over LAN to another user with no sign up  
-- **Go Backend API:** Authenticated user service with PostgreSQL, sessions, and token handling  
-- **CLI Tools & Scripts:** Linux automation and developer tooling
-
----
-
 📫 **Let’s connect:**  
 If you’re working on backend systems, distributed infrastructure, or high-performance code — I’d love to collaborate or contribute.
 
