@@ -1,29 +1,41 @@
-### Hi there 👋
+# Filip Madyarov — Full Stack Engineer
 
-I'm a 2024 graduate from the University of Melbourne, passionate about systems programming, backend development, and understanding how things work under the hood. 
+I’m a 2024 Computer Science graduate from the University of Melbourne with a strong interest in backend engineering, systems programming, and service design for large scale applications or personal tools.
 
-I enjoy working with C, Go, and Python, and I'm especially interested in projects that touch on networking, operating systems, or distributed systems. Whether it's building a proxy server from scratch or designing backend APIs, I love writing clean, efficient, and purposeful code.
+I build systems that are reliable, efficient, and maintainable — from backend APIs in Go to socket-based tools in C. I’m most passionate about solving backend problems that involve performance, networking, and architecture.
 
-Currently exploring:
-- Low-level systems and performance optimization
-- Backend architectures and service design
-- Open source contributions and personal tools
+---
 
-*Always learning, always building.*
+## 💻 Technical Skills
 
-Feel free to check out my projects or reach out if you want to collaborate!
+**Languages:** GoLang, C, Python, Kotlin, JavaScript, Dart 
+**Backend:** REST APIs, gRPC, WebSockets, PostgreSQL, Redis  
+**Frontend:** React, Compose, Flutter  
+**Tools & Infra:** Docker, Git, Linux, Nginx, Postman  
+**Currently Learning:** Kubernetes, GCP, CI/CD pipelines
 
-<!--
-**filipmad/filipmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Engineering** – APIs, data modeling, concurrency, observability  
+- **Systems Programming** – sockets, low-level networking, memory management  
+- **Distributed Systems** – scalability, fault tolerance, load balancing
+- **Personal Tools**      - realiable,   
+
+---
+
+## 🛠️ Selected Projects
+*(See repos for full code and documentation)*
+
+- **Proxy Server (C):** TCP proxy built from scratch, exploring sockets and buffering
+- **Drop Note (Kotlin, React):** Quickly and Securely Share Text & Files over LAN to another user with no sign up  
+- **Go Backend API:** Authenticated user service with PostgreSQL, sessions, and token handling  
+- **CLI Tools & Scripts:** Linux automation and developer tooling
+
+---
+
+📫 **Let’s connect:**  
+If you’re working on backend systems, distributed infrastructure, or high-performance code — I’d love to collaborate or contribute.
+
+→ Check out my work below or reach out.
