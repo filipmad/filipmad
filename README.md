@@ -8,10 +8,14 @@ I build systems that are reliable, efficient, and maintainable. I’m most passi
 
 ## 💻 Technical Skills
 
-**Languages:** GoLang, C++, Python, Java, Kotlin, JavaScript, Dart 
-**Backend:** REST APIs, gRPC, WebSockets, PostgreSQL, Redis  
-**Frontend:** React, Compose, Flutter  
+**Languages:** GoLang, C++, Python, Java, Kotlin, JavaScript, Dart
+
+**Frontend:** React, Compose, Flutter
+
+**Backend:** REST APIs, gRPC, WebSockets, PostgreSQL, Redis
+
 **Tools & Infra:** Docker, Git, Linux, Nginx, Postman  
+
 **Currently Learning:** Kubernetes, GCP, CI/CD pipelines
 
 ---
