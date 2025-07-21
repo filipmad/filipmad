@@ -16,7 +16,7 @@ I build systems that are reliable, efficient, and maintainable. I’m most passi
 
 **Tools & Infra:** Docker, Git, Linux, Nginx, Postman  
 
-**Currently Learning:** Kubernetes, GCP, CI/CD pipelines
+**Currently Learning:** Kubernetes, GCP 
 
 ---
 
