@@ -25,7 +25,7 @@ I build systems that are reliable, efficient, and maintainable. I’m most passi
 - **Backend Engineering** – APIs, data modeling, concurrency, observability  
 - **Systems Programming** – sockets, low-level networking, memory management  
 - **Distributed Systems** – scalability, fault tolerance, load balancing
-- **Personal Tools**      - realiable, secure and interative software for personal use   
+- **Personal Tools**      - meaningful, secure and interative software for personal use   
 
 ---
 
