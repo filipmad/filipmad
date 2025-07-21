@@ -8,7 +8,7 @@ I build systems that are reliable, efficient, and maintainable. I’m most passi
 
 ## 💻 Technical Skills
 
-**Languages:** GoLang, C++, Python, Java, Kotlin, JavaScript, Dart
+**Languages:** GoLang, C, Python, Java, Kotlin, TypeScript, Dart
 
 **Frontend:** React, Compose, Flutter
 
