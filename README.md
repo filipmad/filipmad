@@ -1,4 +1,4 @@
-# Filip Madyarov — Full Stack Engineer
+# Filip Madyarov
 
 I’m a 2024 Computer Science graduate from the University of Melbourne with a strong interest in backend engineering, systems programming, and building towards service design for large scale applications or personal tools.
 
